@@ -1,0 +1,11 @@
+Square_Meters,Number_Of_Rooms,Facilities,Price_Per_Week,Distance_From_Sea
+152,5,['Air Conditioning'],525.9391401433528,3.395269841296216
+142,4,"['Balcony', 'Garden', 'Pool', 'Garage']",834.6590042851329,7.956399356997368
+64,3,"['Balcony', 'Garage', 'Garden']",704.7230260989621,9.090011248499616
+156,5,"['Pool', 'Garage', 'Air Conditioning', 'Balcony']",507.72079627725867,1.173530984439967
+121,2,"['Balcony', 'Garage']",956.5940526113312,9.309400352570856
+70,4,"['Pool', 'Garage']",295.2914049128586,2.972599793465727
+152,2,"['Balcony', 'Garage', 'Garden', 'Pool']",509.0025079493054,1.443248098286553
+171,4,"['Air Conditioning', 'Pool', 'Garage', 'Garden', 'Balcony']",612.9065806111684,14.258840290173332
+124,5,"['Garden', 'Garage']",738.4979779038503,14.50166447958111
+137,1,"['Garden', 'Garage', 'Air Conditioning', 'Pool', 'Balcony']",1199.246345950219,12.221761547688686
